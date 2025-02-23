@@ -247,7 +247,7 @@
           <mxGeometry y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-9" value="کارمزد" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="365" y="130" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
