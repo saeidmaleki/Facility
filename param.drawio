@@ -232,10 +232,10 @@
           <mxGeometry x="130" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-4" value="انواع بیمه نامه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-5" value="انواع اسناد قرارداد" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="510" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-6" value="انواع استعلام" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="365" width="120" height="80" as="geometry" />
@@ -247,7 +247,7 @@
           <mxGeometry y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-9" value="کارمزد" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="365" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="365" y="90" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
