@@ -255,7 +255,7 @@
         <mxCell id="qHezKH5iI0OJUQdXsAGK-7" value="مدیریت تصمیم گیری" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;gradientColor=#ea6b66;double=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="330" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-8" value="مدیریت&amp;nbsp;سیستم" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-8" value="مدیریت&amp;nbsp;سیستم" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=default;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="680" y="590" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-9" value="مدیریت واحدهای بانک" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#e3c800;strokeColor=#B09500;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;double=1;" vertex="1" parent="1">
