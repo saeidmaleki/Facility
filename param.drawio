@@ -218,62 +218,62 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tpfn5hpn_HDT-wqOFqeq" name="Param Assets">
-    <mxGraphModel dx="1106" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="451" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P9DPgZVxVX7I3ZQqdMut-1" value="&lt;font&gt;مدیریت عقود&lt;/font&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Helvetica;fontSize=14;spacingTop=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="P9DPgZVxVX7I3ZQqdMut-1" value="&lt;font&gt;مدیریت عقود&lt;/font&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Helvetica;fontSize=14;spacingTop=1;verticalAlign=middle;double=1;" parent="1" vertex="1">
           <mxGeometry x="44" y="200" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="47RzwFUNub2ARMBaULxg-1" value="مدیریت بخش ها و زیر بخش های اقتصادی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="47RzwFUNub2ARMBaULxg-1" value="مدیریت بخش ها و زیر بخش های اقتصادی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" parent="1" vertex="1">
           <mxGeometry x="44" y="330" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P9DPgZVxVX7I3ZQqdMut-4" value="مدیریت بیمه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="P9DPgZVxVX7I3ZQqdMut-4" value="مدیریت بیمه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="200" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P9DPgZVxVX7I3ZQqdMut-6" value="مدیریت استعلام" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="P9DPgZVxVX7I3ZQqdMut-6" value="مدیریت استعلام" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;double=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="330" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P9DPgZVxVX7I3ZQqdMut-7" value="مدیریت تسهیلات، تعهدات و مطالبات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="P9DPgZVxVX7I3ZQqdMut-7" value="مدیریت تسهیلات، تعهدات و مطالبات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="200" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P9DPgZVxVX7I3ZQqdMut-8" value="مدیریت وثایق" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="P9DPgZVxVX7I3ZQqdMut-8" value="مدیریت وثایق" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;double=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="200" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P9DPgZVxVX7I3ZQqdMut-9" value="مدیریت سود/کارمزد/جریمه/هزینه های قانونی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="P9DPgZVxVX7I3ZQqdMut-9" value="مدیریت سود/کارمزد/جریمه/هزینه های قانونی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="460" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-1" value="مدیریت درخواست‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-1" value="مدیریت درخواست‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-3" value="مدیریت اسناد و&amp;nbsp;مستندات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-3" value="مدیریت اسناد و&amp;nbsp;مستندات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="330" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-6" value="مدیریت مشتریان" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-6" value="مدیریت مشتریان" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="330" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-7" value="مدیریت تصمیم گیری" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;gradientColor=#ea6b66;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-7" value="مدیریت تصمیم گیری" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;gradientColor=#ea6b66;double=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="330" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-8" value="مدیریت&amp;nbsp;سیستم" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-8" value="مدیریت&amp;nbsp;سیستم" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="590" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-9" value="مدیریت واحدهای بانک" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#e3c800;strokeColor=#B09500;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-9" value="مدیریت واحدهای بانک" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#e3c800;strokeColor=#B09500;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;double=1;" vertex="1" parent="1">
           <mxGeometry x="44" y="590" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-10" value="مدیریت مناطق جغرافیایی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#e6d0de;strokeColor=#996185;fontStyle=1;fontFamily=Helvetica;fontSize=14;gradientColor=#d5739d;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-10" value="مدیریت مناطق جغرافیایی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#e6d0de;strokeColor=#996185;fontStyle=1;fontFamily=Helvetica;fontSize=14;gradientColor=#d5739d;double=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="590" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-11" value="مدیریت منابع و مصارف" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-11" value="مدیریت منابع و مصارف" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" vertex="1" parent="1">
           <mxGeometry x="44" y="460" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-12" value="مدیریت کاربران" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Helvetica;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-12" value="مدیریت کاربران" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Helvetica;fontSize=14;gradientColor=#ffd966;double=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="590" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-13" value="مدیریت&amp;nbsp;گزارشات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-13" value="مدیریت&amp;nbsp;گزارشات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;double=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="590" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qHezKH5iI0OJUQdXsAGK-14" value="مدیریت ارتباطات و اطلاع‌رسانی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-14" value="مدیریت ارتباطات و اطلاع‌رسانی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;double=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
