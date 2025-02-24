@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tpfn5hpn_HDT-wqOFqeq" name="Param Assets">
-    <mxGraphModel dx="940" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,7 +240,7 @@
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-8" value="مدیریت وثایق" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="520" y="200" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P9DPgZVxVX7I3ZQqdMut-9" value="مدیریت سود/کارمزد/جریمه/هزینه های قانونی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="P9DPgZVxVX7I3ZQqdMut-9" value="مدیریت سود/کارمزد/جریمه/هزینه های قانونی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="200" y="460" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-1" value="مدیریت درخواست‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
@@ -272,6 +272,9 @@
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-13" value="مدیریت&amp;nbsp;گزارشات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="520" y="590" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qHezKH5iI0OJUQdXsAGK-14" value="مدیریت ارتباطات و اطلاع‌رسانی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;fontStyle=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
