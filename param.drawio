@@ -307,6 +307,63 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aIjb7VUai6m95m3xVqtO-1" value="ماژول بیمه" style="shape=ext;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-3" value="ماژول وثایق" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-4" value="ماژول سود/کارمزد/جریمه/هزینه های قانونی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-6" value="ماژول&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;تصمیم گیری&lt;/span&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;gradientColor=#97d077;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-9" value="ماژول&amp;nbsp;ضامنین" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-10" value="ماژول&amp;nbsp;حد و سقف" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-11" value="ماژول&amp;nbsp;تمدید و متمم" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-12" value="ماژول&amp;nbsp;پیگیری مطالبات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-13" value="ماژول استعلامات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-14" value="ماژول اسناد و&amp;nbsp;مستندات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-15" value="ماژول ارتباطات و اطلاع‌رسانی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-16" value="ماژول گزارش‌گیری و تحلیل داده‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjb7VUai6m95m3xVqtO-19" value="ماژول اعتبارسنجی و بررسی ریسک" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-1" value="پکیج درخواست" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-2" value="پکیج پیشنهاد" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-3" value="پکیج مصوبه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-4" value="پکیج قرارداد" style="html=1;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-5" value="پکیج بازپرداخت" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-6" value="پکیج&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تسویه&lt;/span&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="90" y="500" width="110" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
