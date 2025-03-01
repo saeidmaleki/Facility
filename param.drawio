@@ -105,22 +105,22 @@
         <mxCell id="aIjb7VUai6m95m3xVqtO-19" value="ماژول اعتبارسنجی و بررسی ریسک" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Roboto;fontSize=12;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="620" y="165" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8mzccRnA_rq-y_F9DoEi-1" value="پکیج درخواست" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-1" value="بسته درخواست" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="275" y="165" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8mzccRnA_rq-y_F9DoEi-2" value="پکیج پیشنهاد" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-2" value="بسته پیشنهاد" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="275" y="265" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8mzccRnA_rq-y_F9DoEi-3" value="پکیج مصوبه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-3" value="بسته مصوبه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="275" y="365" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8mzccRnA_rq-y_F9DoEi-4" value="پکیج قرارداد" style="html=1;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-4" value="بسته قرارداد" style="html=1;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="275" y="465" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8mzccRnA_rq-y_F9DoEi-5" value="پکیج بازپرداخت" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-5" value="بسته بازپرداخت" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="275" y="565" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8mzccRnA_rq-y_F9DoEi-6" value="پکیج&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تسویه&lt;/span&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="8mzccRnA_rq-y_F9DoEi-6" value="بسته&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تسویه&lt;/span&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="275" y="665" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
