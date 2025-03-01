@@ -23,7 +23,7 @@
           <mxGeometry x="621" y="200" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-9" value="مدیریت سود/کارمزد/جریمه/هزینه های قانونی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;gradientColor=#7ea6e0;" parent="1" vertex="1">
-          <mxGeometry x="303" y="430" width="150" height="100" as="geometry" />
+          <mxGeometry x="301" y="430" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-1" value="مدیریت درخواست‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="461" y="200" width="150" height="100" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="301" y="545" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-11" value="مدیریت منابع و مصارف" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;gradientColor=#7ea6e0;" parent="1" vertex="1">
-          <mxGeometry x="147" y="430" width="150" height="100" as="geometry" />
+          <mxGeometry x="145" y="430" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-12" value="مدیریت کاربران" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Roboto;fontSize=14;gradientColor=#7ea6e0;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="461" y="545" width="150" height="100" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="621" y="545" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-14" value="مدیریت ارتباطات و اطلاع‌رسانی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;gradientColor=#7ea6e0;" parent="1" vertex="1">
-          <mxGeometry x="463" y="430" width="150" height="100" as="geometry" />
+          <mxGeometry x="461" y="430" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
