@@ -65,234 +65,291 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tpfn5hpn_HDT-wqOFqeq" name="پیکربندی سیستم">
-    <mxGraphModel dx="940" dy="451" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1106" dy="531" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-1" value="&lt;font&gt;مدیریت عقود&lt;/font&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;spacingTop=1;verticalAlign=middle;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="140" y="202" width="150" height="100" as="geometry" />
+          <mxGeometry x="155" y="190" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="47RzwFUNub2ARMBaULxg-1" value="مدیریت بخش ها و زیر بخش های اقتصادی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="140" y="314" width="150" height="100" as="geometry" />
+          <mxGeometry x="155" y="302" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-4" value="مدیریت بیمه" style="shape=ext;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="781" y="202" width="150" height="100" as="geometry" />
+          <mxGeometry x="796" y="190" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-6" value="مدیریت استعلام" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="781" y="314" width="150" height="100" as="geometry" />
+          <mxGeometry x="796" y="302" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-7" value="مدیریت تسهیلات، تعهدات و مطالبات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="301" y="202" width="150" height="100" as="geometry" />
+          <mxGeometry x="316" y="190" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-8" value="مدیریت وثایق" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="621" y="202" width="150" height="100" as="geometry" />
+          <mxGeometry x="636" y="190" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P9DPgZVxVX7I3ZQqdMut-9" value="مدیریت سود/کارمزد/جریمه/هزینه های قانونی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="301" y="427" width="150" height="100" as="geometry" />
+          <mxGeometry x="316" y="415" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-1" value="مدیریت درخواست‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="461" y="202" width="150" height="100" as="geometry" />
+          <mxGeometry x="476" y="190" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-3" value="مدیریت اسناد و&amp;nbsp;مستندات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="301" y="314" width="150" height="100" as="geometry" />
+          <mxGeometry x="316" y="302" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-6" value="مدیریت مشتریان" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="461" y="314" width="150" height="100" as="geometry" />
+          <mxGeometry x="476" y="302" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-7" value="مدیریت تصمیم گیری" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="621" y="314" width="150" height="100" as="geometry" />
+          <mxGeometry x="636" y="302" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-8" value="مدیریت&amp;nbsp;سیستم" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="460" y="540" width="150" height="100" as="geometry" />
+          <mxGeometry x="475" y="528" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-9" value="مدیریت واحدهای بانک" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="621" y="427" width="150" height="100" as="geometry" />
+          <mxGeometry x="636" y="415" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-10" value="مدیریت مناطق جغرافیایی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="781" y="427" width="150" height="100" as="geometry" />
+          <mxGeometry x="796" y="415" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-11" value="مدیریت منابع و مصارف" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="140" y="427" width="150" height="100" as="geometry" />
+          <mxGeometry x="155" y="415" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-12" value="مدیریت کاربران" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="140" y="540" width="150" height="100" as="geometry" />
+          <mxGeometry x="155" y="528" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-13" value="مدیریت&amp;nbsp;گزارشات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="300" y="540" width="150" height="100" as="geometry" />
+          <mxGeometry x="315" y="528" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qHezKH5iI0OJUQdXsAGK-14" value="مدیریت ارتباطات و اطلاع‌رسانی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="461" y="427" width="150" height="100" as="geometry" />
+          <mxGeometry x="476" y="415" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd1xlCJTchhFubAkvtaT-1" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="636" y="528" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd1xlCJTchhFubAkvtaT-2" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="796" y="528" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd1xlCJTchhFubAkvtaT-3" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="155" y="640" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd1xlCJTchhFubAkvtaT-4" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="315" y="640" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd1xlCJTchhFubAkvtaT-5" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="475" y="640" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd1xlCJTchhFubAkvtaT-6" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="635" y="640" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bd1xlCJTchhFubAkvtaT-7" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="796" y="640" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wGbFA19WcmSendZT_ydf-2" value="پیکربندی سیستم" style="text;strokeColor=none;fillColor=none;html=1;fontSize=27;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="70" width="225" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2Sp-BMtUnniPV2rbj3rI" name="بسته ها">
-    <mxGraphModel dx="940" dy="451" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="531" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FkG68VFFMWNFJA1_51r9-1" value="بسته تسهیلات&amp;nbsp;مشاركت مدني" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="264" y="180" width="150" height="100" as="geometry" />
+          <mxGeometry x="414" y="295" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-1" value="بسته تسهیلات&amp;nbsp;مضاربه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="423" y="180" width="150" height="100" as="geometry" />
+          <mxGeometry x="573" y="295" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-2" value="بسته تسهیلات&amp;nbsp;فروش اقساطی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="264" y="290" width="150" height="100" as="geometry" />
+          <mxGeometry x="414" y="405" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-3" value="مرابحه / کارت بسته تسهیلات&amp;nbsp;اعتباري مرابحه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="105" y="290" width="150" height="100" as="geometry" />
+          <mxGeometry x="255" y="405" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-4" value="بسته تسهیلات&amp;nbsp;معاملات سلف" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="585" y="290" width="150" height="100" as="geometry" />
+          <mxGeometry x="735" y="405" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-5" value="بسته تسهیلات&amp;nbsp;جعاله" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="105" y="401" width="150" height="100" as="geometry" />
+          <mxGeometry x="255" y="516" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-8" value="بسته تسهیلات&amp;nbsp;قرض الحسنه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="105" y="180" width="150" height="100" as="geometry" />
+          <mxGeometry x="255" y="295" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-9" value="بسته تسهیلات&amp;nbsp;اجاره بشرط تمليك" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="585" y="180" width="150" height="100" as="geometry" />
+          <mxGeometry x="735" y="295" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-10" value="بسته تسهیلات&amp;nbsp;خريد دين / اعتبار در حساب جاري" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="423" y="290" width="150" height="100" as="geometry" />
+          <mxGeometry x="573" y="405" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9uDFUL4l-sVwj-6nvoKc-1" value="(بسته پایه)&lt;div&gt;ضروری برای راه‌اندازی سامانه&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="345" y="70" width="150" height="100" as="geometry" />
+          <mxGeometry x="495" y="185" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9jd9iWURpZpOFO1eW8yn-1" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="264" y="401" width="150" height="100" as="geometry" />
+          <mxGeometry x="414" y="516" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9jd9iWURpZpOFO1eW8yn-2" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="582" y="401" width="150" height="100" as="geometry" />
+          <mxGeometry x="732" y="516" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9jd9iWURpZpOFO1eW8yn-3" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="423" y="401" width="150" height="100" as="geometry" />
+          <mxGeometry x="573" y="516" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ctgv0PJMkwy0zlSJTvLq-1" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="105" y="510" width="150" height="100" as="geometry" />
+          <mxGeometry x="255" y="625" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ctgv0PJMkwy0zlSJTvLq-2" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="264" y="510" width="150" height="100" as="geometry" />
+          <mxGeometry x="414" y="625" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ctgv0PJMkwy0zlSJTvLq-3" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="423" y="510" width="150" height="100" as="geometry" />
+          <mxGeometry x="573" y="625" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ctgv0PJMkwy0zlSJTvLq-4" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="582" y="510" width="150" height="100" as="geometry" />
+          <mxGeometry x="732" y="625" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7CGYQocz4ari_3b3byP-1" value="بسته های پیشنهادی" style="text;strokeColor=none;fillColor=none;html=1;fontSize=27;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="85" width="225" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="e-E7SFvnMSi2HfjokYm5" name="ماژول ها">
-    <mxGraphModel dx="940" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="531" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a_adTKTvDNiBxnNn_ivr-1" value="ماژول بیمه" style="shape=ext;rounded=1;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;labelBorderColor=none;textShadow=0;whiteSpace=wrap;html=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="274" y="120" width="150" height="100" as="geometry" />
+          <mxGeometry x="346.5" y="208" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-2" value="ماژول وثایق" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="117.5" y="229" width="150" height="100" as="geometry" />
+          <mxGeometry x="190" y="317" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-3" value="ماژول سود/کارمزد/جریمه/هزینه های قانونی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="117.5" y="340" width="150" height="100" as="geometry" />
+          <mxGeometry x="190" y="428" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-4" value="ماژول&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;تصمیم گیری&lt;/span&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="117.5" y="120" width="150" height="100" as="geometry" />
+          <mxGeometry x="190" y="208" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-5" value="ماژول&amp;nbsp;تضامین" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="430.5" y="120" width="150" height="100" as="geometry" />
+          <mxGeometry x="503" y="208" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-6" value="ماژول&amp;nbsp;حد و سقف" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="430.5" y="229" width="150" height="100" as="geometry" />
+          <mxGeometry x="503" y="317" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-7" value="ماژول&amp;nbsp;تمدید و متمم" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="274" y="229" width="150" height="100" as="geometry" />
+          <mxGeometry x="346.5" y="317" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-8" value="ماژول&amp;nbsp;پیگیری مطالبات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="743.5" y="120" width="150" height="100" as="geometry" />
+          <mxGeometry x="816" y="208" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-9" value="ماژول استعلامات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="587.5" y="120" width="150" height="100" as="geometry" />
+          <mxGeometry x="660" y="208" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-10" value="ماژول&amp;nbsp;مدارک و&amp;nbsp;مستندات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="743.5" y="229" width="150" height="100" as="geometry" />
+          <mxGeometry x="816" y="317" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-11" value="ماژول ارتباطات و اطلاع‌رسانی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="587.5" y="229" width="150" height="100" as="geometry" />
+          <mxGeometry x="660" y="317" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-12" value="ماژول گزارش‌گیری و تحلیل داده‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="433" y="340" width="150" height="100" as="geometry" />
+          <mxGeometry x="503" y="428" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="a_adTKTvDNiBxnNn_ivr-13" value="ماژول اعتبارسنجی و بررسی ریسک" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="276.5" y="340" width="150" height="100" as="geometry" />
+          <mxGeometry x="346.5" y="428" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wv3H2YOV2u7g9Y716en_-1" value="ماژول تسهیلات خاص" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="587.5" y="340" width="150" height="100" as="geometry" />
+          <mxGeometry x="660" y="428" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eqBesK0ZuMbf5JA18Z8e-1" value="ماژول کاربران و نقش‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="743.5" y="340" width="150" height="100" as="geometry" />
+          <mxGeometry x="816" y="428" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eqBesK0ZuMbf5JA18Z8e-2" value="ماژول اقساط و بازپرداخت‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="117.5" y="450" width="150" height="100" as="geometry" />
+          <mxGeometry x="190" y="538" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-1" value="ماژول های پیشنهادی" style="text;strokeColor=none;fillColor=none;html=1;fontSize=27;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="472" y="70" width="225" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-2" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="538" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-3" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="503" y="538" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-4" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="538" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-5" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="816" y="538" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="AFen_EmnmjV1rTSy-YF9" name="افزونه ها">
-    <mxGraphModel dx="940" dy="451" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="531" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TnGZyBOZUhOQx_tUG6YO-1" value="افزونه مدیریت استثنائات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=14;double=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="495" y="85" width="150" height="100" as="geometry" />
+          <mxGeometry x="460" y="230" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TnGZyBOZUhOQx_tUG6YO-2" value="افزونه اعطای گروهي" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="185" y="85" width="150" height="100" as="geometry" />
+          <mxGeometry x="150" y="230" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TnGZyBOZUhOQx_tUG6YO-3" value="افزونه&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;بازپرداخت گروهي&lt;/span&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="340" y="85" width="150" height="100" as="geometry" />
+          <mxGeometry x="305" y="230" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-1" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="650" y="85" width="150" height="100" as="geometry" />
+          <mxGeometry x="615" y="230" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-2" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="185" y="195" width="150" height="100" as="geometry" />
+          <mxGeometry x="150" y="340" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-3" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="340" y="195" width="150" height="100" as="geometry" />
+          <mxGeometry x="305" y="340" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-4" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="650" y="195" width="150" height="100" as="geometry" />
+          <mxGeometry x="615" y="340" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-5" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="495" y="195" width="150" height="100" as="geometry" />
+          <mxGeometry x="460" y="340" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-6" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="185" y="305" width="150" height="100" as="geometry" />
+          <mxGeometry x="150" y="450" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-7" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="340" y="305" width="150" height="100" as="geometry" />
+          <mxGeometry x="305" y="450" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-8" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="650" y="305" width="150" height="100" as="geometry" />
+          <mxGeometry x="615" y="450" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-9" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="495" y="305" width="150" height="100" as="geometry" />
+          <mxGeometry x="460" y="450" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-10" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="185" y="415" width="150" height="100" as="geometry" />
+          <mxGeometry x="150" y="560" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-11" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="340" y="415" width="150" height="100" as="geometry" />
+          <mxGeometry x="305" y="560" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-12" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="650" y="415" width="150" height="100" as="geometry" />
+          <mxGeometry x="615" y="560" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Tfl2Ua1vEngRFnSs24J_-13" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="495" y="415" width="150" height="100" as="geometry" />
+          <mxGeometry x="460" y="560" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LJlqQv_8h8AGa33VzqPs-1" value="افزونه های پیشنهادی" style="text;strokeColor=none;fillColor=none;html=1;fontSize=27;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="75" width="225" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B1u8OwfscWD9pawjKsPr-1" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="770" y="230" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B1u8OwfscWD9pawjKsPr-2" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="770" y="340" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B1u8OwfscWD9pawjKsPr-3" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="770" y="450" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B1u8OwfscWD9pawjKsPr-4" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="770" y="560" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
