@@ -277,7 +277,7 @@
         <mxCell id="a_adTKTvDNiBxnNn_ivr-12" value="ماژول گزارش‌گیری و تحلیل داده‌ها" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="503" y="414" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="a_adTKTvDNiBxnNn_ivr-13" value="ماژول اعتبارسنجی و بررسی ریسک" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="a_adTKTvDNiBxnNn_ivr-13" value="ماژول اعتبارسنجی و رتبه بندی مشتریان" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="346.5" y="414" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wv3H2YOV2u7g9Y716en_-1" value="ماژول تسهیلات خاص" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
@@ -292,7 +292,7 @@
         <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-1" value="ماژول های پیشنهادی" style="text;strokeColor=none;fillColor=none;html=1;fontSize=27;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="465" y="65" width="225" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-2" value="ماژول کارمزد کارشناسی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-2" value="ماژول دریافت کارمزد" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="346.5" y="524" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YR7b1dlBhLfUoXpQ-1Mo-3" value="ماژول امهال مطالبات" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=1;glass=0;labelBackgroundColor=none;fontStyle=1;fontFamily=Roboto;fontSize=14;double=1;fontSource=https://fonts.googleapis.com/css?family=Roboto;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
