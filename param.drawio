@@ -205,34 +205,34 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FkG68VFFMWNFJA1_51r9-1" value="بسته تسهیلات&amp;nbsp;مشاركت مدني" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="494" y="250" width="150" height="100" as="geometry" />
+          <mxGeometry x="349" y="250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-1" value="بسته تسهیلات&amp;nbsp;مضاربه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="653" y="250" width="150" height="100" as="geometry" />
+          <mxGeometry x="508" y="250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-2" value="بسته تسهیلات&amp;nbsp;فروش اقساطی" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="653" y="360" width="150" height="100" as="geometry" />
+          <mxGeometry x="349" y="360" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-3" value="مرابحه / کارت بسته تسهیلات&amp;nbsp;اعتباري مرابحه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="494" y="360" width="150" height="100" as="geometry" />
+          <mxGeometry x="190" y="360" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-4" value="بسته تسهیلات&amp;nbsp;معاملات سلف" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="494" y="471" width="150" height="100" as="geometry" />
+          <mxGeometry x="670" y="360" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-5" value="بسته تسهیلات&amp;nbsp;جعاله" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="653" y="471" width="150" height="100" as="geometry" />
+          <mxGeometry x="190" y="471" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-8" value="بسته تسهیلات&amp;nbsp;قرض الحسنه" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="335" y="250" width="150" height="100" as="geometry" />
+          <mxGeometry x="190" y="250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-9" value="بسته تسهیلات&amp;nbsp;اجاره بشرط تمليك" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="335" y="360" width="150" height="100" as="geometry" />
+          <mxGeometry x="670" y="250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cjS6yN4oCVnwuNCVYN2P-10" value="بسته تسهیلات&amp;nbsp;خريد دين / اعتبار در حساب جاري" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="335" y="471" width="150" height="100" as="geometry" />
+          <mxGeometry x="508" y="360" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9uDFUL4l-sVwj-6nvoKc-1" value="(بسته پایه)&lt;div&gt;ضروری برای راه‌اندازی سامانه&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="494" y="135" width="150" height="100" as="geometry" />
+          <mxGeometry x="430" y="140" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
